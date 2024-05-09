@@ -1,0 +1,9 @@
+S "GO" "Hora Um" 05:00 06:00
+S "BR" "Globo Rural" 05:00 06:00
+Q "GO" 05:30
+Q "SP" 05:28
+S "DF" "Bom dia DF" 06:01 07:29
+S "RJ" "Bom dia RJ" 06:01 07:29
+S "SP" "Bom dia SP" 06:01 07:29
+Q "RJ" 07:00
+Q "GO" 06:50
